@@ -62,7 +62,7 @@ console.log( getAverageAge(arr) );
 **Unfortunately, i don't have any. Selfeducation it is only what i get, but i will try to my best to have one.^^/**
 
 <p><a href="https://github.com/smokimod/rsschool-cv">CV expample link </a></p>
-<p><a href=" https://github.com/smokimod/New-Academy-Repos/tree/main/films">Films API link</a></p>
+<p><a href="https://github.com/smokimod/New-Academy-Repos/tree/main/films">Films API link</a></p>
 <p><a href="https://github.com/smokimod/New-Academy-Repos/tree/main/React/todo">ToDo list link </a></p>
 
 <hr/>
