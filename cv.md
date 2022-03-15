@@ -5,33 +5,35 @@
 <h1 align="center">Resume</h1>
 <hr/>
 
- #  Name & Surname:
+# Name & Surname:
 
 ### Arseni Shaikov
 
 <hr/>
 
 # Contacts:
-#### *MTS:+375335920983*
-#### *Discord:@smokimod*
+
+#### _MTS:+375335920983_
+
+#### _Discord:@smokimod_
 
 <hr/>
 
 # About me:
 
-**I'm 22 year's old developer looking forward an apportunity to skill-up my aknowlage for finding intresting and well-paid job. I think that  i capable to fast learn new things that's why this subject it intresting for me.**
+<h3 align="center">I'm 22 year's old developer looking forward an apportunity to skill-up my aknowlage for finding intresting and well-paid job. I think that  i capable to fast learn new things that's why this subject it intresting for me.</h3>
 
 <hr/>
 
-# My  skills:
+# My skills:
 
-   *  **JavaScript**
-   *  **Html & Css**
-   *  **React**
+- **JavaScript**
+- **Html & Css**
+- **React**
 
 <hr/>
 
-# Code  examples:
+# Code examples:
 
 ```
 //sum of array
@@ -50,14 +52,18 @@ let masha = { name: "Маша", age: 29 };
 
 let arr = [ vasya, petya, masha ];
 
-console.log( getAverageAge(arr) ); 
+console.log( getAverageAge(arr) );
 ```
 
 <hr/>
 
 # Job experience:
+
 **Unfortunately, i don't have any. Selfeducation it is only what i get, but i will try to my best to have one.^^/**
 **CV expample: https://github.com/smokimod/rsschool-cv**
+**Films API: https://github.com/smokimod/New-Academy-Repos/tree/main/films**
+**ToDo list: https://github.com/smokimod/New-Academy-Repos/tree/main/React/todo**
+
 <hr/>
 
 # Educatinon & Courses:
