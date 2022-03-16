@@ -1,1 +1,1 @@
-https://smokimod.github.io/rsschool-cv/cv
+https://smokimod.github.io/rsschool-cv/
